@@ -5,18 +5,11 @@ body, footer, head {
     background-color: #d74894;
 }
 
-h1 {
-
-}
-
-h2 {
-
-}
-
 blockquote {
     background-color: #efb6d4;
     color: #df6da9;
     text-align: center;
+    margin: 10px;
 }
 
 table {
@@ -27,14 +20,12 @@ a:hover {
     color: #e791bf;
 }
 
-
-/* others */
-footer, header, nav, p, h1, h2{
+footer, header, nav, p, h1, h2, h3{
     margin: 5px;
     text-align: center;
 }
 
-a, p, h1, h2 {
+a, p, h1, h2, h3, label {
     color: #f7daea;
 }
 
