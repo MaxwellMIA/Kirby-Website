@@ -1,0 +1,46 @@
+/*#d74894 #df6da9 #e791bf #efb6d4 #f7daea*/
+/* darkest to ligthest */
+
+body, footer, head {
+    background-color: #d74894;
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+blockquote {
+    background-color: #efb6d4;
+    color: #df6da9;
+    text-align: center;
+}
+
+table {
+    border-color: #592641;
+}
+
+a:hover {
+    color: #e791bf;
+}
+
+
+/* others */
+footer, header, nav, p, h1, h2{
+    margin: 5px;
+    text-align: center;
+}
+
+a, p, h1, h2 {
+    color: #f7daea;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
