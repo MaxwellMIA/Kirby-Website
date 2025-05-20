@@ -13,7 +13,10 @@ blockquote {
 }
 
 table {
-    border-color: #592641;
+    border: #cc217c 3px dashed;
+    align-items: center;
+    text-align: center;
+    margin:auto;
 }
 
 a:hover {
